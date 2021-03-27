@@ -1,0 +1,39 @@
+====== Mein Wiki im Modul 437 ======
+
+Hier fass ich das Gelernte aus dem Modul 437 zusammen.
+
+===== Diverse Befehle =====
+Ich kann **fett**, //kursiv// und __unterstrichen__ schreiben.
+
+Ich kann einen [[https://google.com|externen Link auf Dokuwiki]] einfügen.
+
+===== Links =====
+Ich kann eine neue Seite anlegen und verlinken [[syntax|Thema1 Wiki]].
+
+Ich kann eine neue Seite anlegen und verlinken, welche in einem Namensraum liegt [[ syntax|Thema1:Wiki]].
+
+===== Bilder =====
+Auch Bilder kann ich einfügen.
+
+===== Listen =====
+Auch Listen sind kein Probmlem:
+  * Erstes Element
+  * Zweites Element
+    * Unterelement
+  * Drittes Element
+
+  - Erstes Element
+  - Zweites Element
+    - Unterelement
+  - Drittes Element
+
+===== Textelemente =====
+Ganz normalen Text meistere ich mit Links;
+
+<code>
+Text in einer Box
+meistere ich mit Rechts
+</code>
+
+Alles ist möglich. :-D DokuWiki sit cool!
+
