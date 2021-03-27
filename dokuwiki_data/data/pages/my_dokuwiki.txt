@@ -15,6 +15,8 @@ Ich kann eine neue Seite anlegen und verlinken, welche in einem Namensraum liegt
 ===== Bilder =====
 Auch Bilder kann ich einfügen.
 
+{{logo.png|Allrount Informatik AG}}
+
 ===== Listen =====
 Auch Listen sind kein Probmlem:
   * Erstes Element
