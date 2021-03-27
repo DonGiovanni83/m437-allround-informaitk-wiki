@@ -2,12 +2,70 @@ version: '3'
 services:
   dokuwiki:
     image: 'docker.io/bitnami/dokuwiki:20200729-debian-10'
+    container_name: dokuwiki
     ports:
-      - '8080:8080'
+      - '8800:8080'
       - '8443:8443'
     environment:
       - DOKUWIKI_USERNAME=admin
-      - DOKUWIKI_PASSWORD=adminpw1234
+      - DOKUWIKI_PASSWORD=sml12345
       - DOKUWIKI_WIKI_NAME=Allround Informatik AG
     volumes:
       - ./dokuwiki_data:/bitnami/dokuwiki
+
+  osticket-app:
+    image: tiredofit/osticket
+    container_name: osticket_app
+    ports:
+      - '8090:80'
+      - '8081:8081'
+    labels:
+      - traefik.enable=true
+      - traefik.frontend.rule=Host:url.example.com
+      - traefik.port=8081
+      - traefik.protocol=http
+      - traefik.docker.network=proxy
+      - traefik.backend=osticket-app
+    volumes:
+      - ./osticket/data/:/www/osticket
+      - ./osticket/logs/:/www/logs
+    environment:
+      - ZABBIX_HOSTNAME=osticket-app
+
+      - CRON_PERIOD=10
+
+      - DB_HOST=osticket-db
+      - DB_NAME=osticket
+      - DB_USER=osticket
+      - DB_PASS=password
+
+      - SMTP_HOST=localhost
+      - SMTP_PORT=8025
+      - SMTP_FROM=support@allroundinformatik.ch
+      - SMTP_TLS=0
+      - SMTP_USER=support@allroundinformatik.ch
+      - SMTP_PASS=password
+
+      - INSTALL_SECRET=as9d8c7Dsc7a90cnCm90d8d
+      - INSTALL_EMAIL=support@allroundinformatik.ch
+      - INSTALL_NAME=Allround Informatik AG - Helpdesk
+
+      - ADMIN_FIRSTNAME=Pascal
+      - ADMIN_LASTNAME=Weiterleiter
+      - ADMIN_EMAIL=pascal.weiterleiter@allroundinformatik.ch
+      - ADMIN_USER=pascal.weiterleiter
+      - ADMIN_PASS=sml12345
+
+  osticket-db:
+    image: tiredofit/mariadb
+    container_name: osticket-db
+    volumes:
+      - ./osticket_db:/var/lib/mysql
+    environment:
+      - ROOT_PASS=securepassword
+      - DB_NAME=osticket
+      - DB_USER=osticket
+      - DB_PASS=password
+
+      - ZABBIX_HOSTNAME=osticket-db
+

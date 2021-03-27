@@ -1,6 +1,13 @@
+# DokuWiki
 /dokuwiki_data/*
 !/dokuwiki_data/data/
 /dokuwiki_data/data/*
 !/dokuwiki_data/data/pages
 !/dokuwiki_data/data/media
 resources
+
+
+# OSTicket
+/osticket
+/osticket_db
+
