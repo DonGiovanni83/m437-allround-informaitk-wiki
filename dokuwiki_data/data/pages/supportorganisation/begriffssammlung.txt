@@ -1,0 +1,32 @@
+====== Begriffssammlung ======
+Wichtige Begriffe der Supportorganisation.
+===== Qualität =====
+Der Qualitätsgrad beschreibt, wie gut ein Produkt oder eine Dienstleistung die Anforderungen
+(ausgesprochene wie auch nicht ausgesprochene) in Bezug auf seine Funktion erfüllen kann.
+
+Qualität ist direkt mit wirtschaftlichem Erfolg verbunden. Wenn sie die Anforderungen eines
+Kunden nicht erfüllen, werden Sie früher oder später mit diesem Kunden ein Problem haben.
+Was aber heisst nicht erfüllen? Sie können schlechtere Qualität liefern, als sich der Kunde
+wünscht. So wird der Kunde irgendwann das Produkt wechseln. Sie können aber auch bessere
+Qualität liefern, als sich der Kunde wünscht. Dann ist der Kunde nicht bereit, den Preis dafür zu
+bezahlen.
+((Die Supportorganisation, Modulunterlagen M437, Thomas Staub))
+===== Prozess =====
+Ein Prozess ist ein Ablauf, eine Folge von logisch zusammenhängenden Aktivitäten zur
+Erstellung einer Leistung oder Veränderung eines Objektes. Ein Prozess hat immer einen
+Anfang/Input und ein/en Ende/Output. In unserem Fall könnte der Input eine Störungsmeldung
+vom Kunden sein oder der Output wäre eine mögliche Lösung. Nun gibt es noch
+Steuerungsgrössen, welche auf unseren Prozessverlauf Einfluss nehmen. Zum Beispiel
+Verträge, sogenannte Service Level Agreements mit dem Kunden. 
+((Die Supportorganisation, Modulunterlagen M437, Thomas Staub))
+
+{{ supportorganisation:process.png |Darstellung Prozess}}
+===== Service =====
+Ein Service ist eine definierte Aufgabe oder Dienstleistung, welche erforderlich ist, um einen
+bestimmten Geschäftsprozess durchzuführen. Microsoft stellt mit Office 365 beispielsweise
+einen solchen Service zur Verfügung.
+((Die Supportorganisation, Modulunterlagen M437, Thomas Staub))
+===== Level =====
+Das Level beschreibt die Anforderung an die Qualität und Quantität, welche eine bestimmte
+Dienstleistung erbringen soll.
+((Die Supportorganisation, Modulunterlagen M437, Thomas Staub))
