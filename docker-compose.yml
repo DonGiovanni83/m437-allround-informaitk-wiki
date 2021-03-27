@@ -5,5 +5,9 @@ services:
     ports:
       - '8080:8080'
       - '8443:8443'
+    environment:
+      - DOKUWIKI_USERNAME=admin
+      - DOKUWIKI_PASSWORD=adminpw1234
+      - DOKUWIKI_WIKI_NAME=Allround Informatik AG
     volumes:
       - ./dokuwiki_data:/bitnami/dokuwiki
