@@ -1,0 +1,39 @@
+====== Erläuterung ITIL ======
+Wer sich mit Qualität, Qualitätsmanagement und IT-Service-Management auseinandersetzt,
+wird nicht um ITIL herumkommen.
+
+ITIL steht für **IT Infrastructure Library**. Es ist ein Framework (Sammlung) von Best
+Practices (Erfolgsmethoden, von IT Profis aus der Praxis für die Praxis) zur Umsetzung
+eines IT-Service-Managements.
+
+ITIL wurde in den Jahren 1989 bis 1994 von der CCTA (Central Computer and
+Telecomunications Agency) heute OGC (Office of Government Commerce) entwickelt. Das CCTA
+war eine Dienstleistungsorganisation der Britischen Regierung, welche die Aufgabe hatte, die
+öffentlichen Dienstleistungen durch Nutzung der IT zu verbessern.
+
+In den letzten Jahren ist ITIL zu einem Leitfaden und einer Methodik für IT-Service-Manager
+geworden.
+
+ITIL besteht aus Verfahren, die den direkten Kontakt mit den Nutzern regelt, wie z.B. das Sevice
+Desk, aber auch standardisierte Vorgehensweisen oder Prozesse zur Organisation der Wartung
+von IT-Verfahren. ITIL beschreibt hauptsächlich, was getan werden muss, und weniger, wie es
+getan werden soll. Es liefert die Idee. Die konkrete Umsetzung ist aber Aufgabe jeder Firma und
+kann nicht global in ITIL beschrieben werden.
+
+Vorteile von ITIL
+  * ITIL bietet eine Grundlage für die wirtschaftliche und zweckmässige Erbringung von ICT-Servicedienstleistungen.
+  * ITIL ist eine Beschreibung von Prozessen oder Verfahren, die Raum lässt für individuelle Implementation innerhalb einer Firma.
+  * ITIL gilt als Quasi-Standard im ICT-Service-Management.
+  * ITIL ist sehr flexibel. Es können zu Beginn auch nur einzelne Teile umgesetzt werden und trotzdem ist eine Verbesserung möglich. 
+
+Nachteile von ITIL
+  * ITIL beschreibt nicht, wie etwas ganz konkret umgesetzt werden soll.
+  * Es beschreibt nicht, wie ein Rollout genau auszusehen hat.
+  * Dem Framework fehlt oft die Verbindlichkeit.
+  * Oft bleibt es bei einer Wunschvorstellung
+
+
+
+{{ supportorganisation:itil.png | ITIL }}
+
+((Die Supportorganisation, Modulunterlagen M437, Thomas Staub))
