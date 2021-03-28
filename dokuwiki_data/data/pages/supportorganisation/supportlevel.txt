@@ -1,0 +1,61 @@
+====== Support Levels ======
+Um den Kunden usere Dienste bestmöglich anbieten zu können, ist unsere Supportorganisation in drei
+Support-Stufen strategisch aufgeteilt.
+===== First Level =====
+Die erste Stufe ist die direkte und einzige Anlaufsstelle (SPOC - Single Point of Contact) für alle Anfragen und Anliegen der Kunden.
+Triviale Probleme werden auf dieser Stufe direkt gelöst, wie z.B. Hilfeleistung beim Passwort-Reset der Kunden.
+Agenten des First Levels benötigen kein tiefes Fachwissen, jedoch ein gewisses Grundwissen der verschiedenen Teilgebiete muss vorhanden sein.
+Als Anlaufstelle für Support-Anfragen verwenden wir unsere Hotline **031 000 00 00** oder Email **support@allroundinformatik.ch**.
+
+Hier werden Anfragen nach folgenden Ablauf bearbeitet:
+  - Anfragen und Daten der Kunden werden im Ticketsystem aufgenommen
+  - Ticket in folgende Kategorien einstufen:
+    * kann vom First Level selbst gelöst werden
+    * weiterleiten an Second Level - Support
+    * weiterleiten an Second Level - Marketing & Verkauf
+    * weiterleiten an Second Level - Finanzen
+    * weiterleiten an Second Level - Sekretariat
+
+==== Team ====
+^ Support ^
+| Pascal Weiterletier, Leiter Supportteam|
+| Hans Machealles|
+| Fritz Weissnix|
+===== Second Level =====
+Können Tickets nicht direkt vom First-Level gelöst werden, übernimmt der Second Level.
+Hier wird erstmals die Ticket-History studiert. Sind weitere Informationen notwendig, kontaktiert der Second-Level-Agent
+den Kunden um gezielt Informationen zum Problem zu erhalten. Auf dieser Stufe brauchen die Agenten einige Erfahrung
+auf ihrem Spezifischen Gebiet und ein solides technisches Fachwissen. Können sie auf ihrer Kompetenzstufe die Probleme nicht
+gelöst werden, werden die Tickets der Dritten Stufe weitergeletet.
+
+Der Bearbeitungsablauf ist auf dieser Stufe wie folgt:
+  - Ticket-History studieren
+  - Bei fehlenden Inormationen den Kunde erneut Kontaktieren.
+  - Ticket in foglende Kategorien einstufen:
+    * kann vom Second Level selbst gelöst werden
+    * weiterleiten an Third Levell - Support Linux oder Windows
+
+==== Team ====
+^ Support ^ Marketing & Verkauf ^ Finanzen ^ Sekretariat ^
+| Pascal Weiterletier, Leiter Supportteam | Rudolf Allesistmöglich | Anna Erbsenzähler | Verena Weissalles |
+| Andi Reparierealles			  | | | |
+| Peter Zaubermann			  | | | |
+
+
+===== Third Level =====
+Auf dieser Stufe arbeiten Experten an Support-Fällen, welche weder vom First- noch vom Second-Level gelöst werden konntent.
+
+Third Level Fälle werden folgendermassen abgearbeitet:
+  - Ticketgeschichte studieren
+  - Ursache des Problems ermitteln und anschliessend:
+    * das Problem direkt lösen, falls möglich
+    * Problem melden, um Produktanpassungen evtl einzuplanen.
+  
+==== Team ====
+^ Support ^
+| Pascal Weiterletier, Leiter Supportteam |
+| Tux Linuxguru, Spezialist Linux |
+| Bill Windowsguru, Spezialist Windows |
+
+((https://neteffect.com/level-1-2-3-support/))
+((Die Supportorganisation, Modulunterlagen M437, Thomas Staub))
