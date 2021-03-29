@@ -1,0 +1,6 @@
+====== Ablauf Helpdesk ======
+
+Unser Helpdesk ist die Abteilung, welche sich um Kundenalniegen kümmert.
+
+{{ supportorganisation:helpdesk_ablauf.png |Ablauf Helpdesk}}
+
