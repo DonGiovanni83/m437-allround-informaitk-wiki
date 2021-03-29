@@ -1,0 +1,39 @@
+====== Vier Ohren Prinzip ======
+
+{{ supportorganisation:vier_ohren.png | Vier Ohren }}
+
+Beim Kommunizieren mit anderen Menschen ist es von Vorteil das Vier Ohren Prinzip zu kennen,
+ um unser Gegenüber besser verstehen zu können.
+
+Nach diesem Modell können wir Aussagen von Menschen auf vier Arten oder mit vier unterschiedlichen 'Ohren' verstehen.
+
+==== Sach-Ohr ====
+Dieses Ohr konzentriert sich auf den Inhalt der Nachricht. Es versteht also die Wörter einer Nachricht
+genau so wie sie übermittelt wurden.
+
+==== Appell-Ohr ====
+Dieses Ohr nimmt eine Aufforderung oder eine Zieläusserung des Gegenüber wahr.
+
+==== Beziehungs-Ohr ====
+Dieses Ohr fasst Messages zwischen den Zeilen auf, welche etwas über die Beiehung der beiden
+Kommunikationsteilnehmer aussagt.
+
+==== Selbstoffenbarungs-Ohr ====
+Hören wir mit diesem Ohr auf eine Nachricht, so filtern wir Informationen aus der Nachricht über wie 
+sich der Andere Fühlt, was seine Ansichten sind oder was seine Bedürfnisse sind.
+
+
+
+===== Beispiel =====
+
+Mit meiner Mutter koche ich zusammen das Abendessen. Sie möchte etwas entsorgen und beim Öffnen des
+Abfalleimers, seuftzt sie: //"Der Abfall ist schon wieder voll"//
+
+Hier könnte man volgende vier Nachrichten aus dieser Aussage verstehen:
+  - **Sach-Ohr** : Meine Mutter meldet, der Abfalleimer sei erneut voll.
+  - **Appell-Ohr** : Meine Mutter möchte mir vielleicht sagen, das ich den Abfalleimer bereits am Nachmittag hätte leeren können.
+  - **Beziehungs-Ohr** : Die Aussage auf Beziehungsebene könnte sein, dass meine Mutter denkt ich helfe nicht so im Haushalt mit wie sie es gerne hätte. 
+  - **Selbstoffenbarungs-Ohr** : Meine Mutter möchte vielleicht damit sagen, dass sie es erneut gemerkt hat und den Abfall erneut selber leeren muss. Sie fühlt sich nicht Unterstützt in den Hausarbeiten.
+
+((https://wortwuchs.net/vier-ohren-modell/))
+
