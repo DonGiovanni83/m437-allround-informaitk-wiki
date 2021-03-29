@@ -1,0 +1,5 @@
+====== Service Level Agreement ======
+
+In diesem Dokument sind unsere Service Level Agreements festgehalten:
+
+{{:supportorganisation:sla_2021.pdf | Service Level Agreements - 2021}}
