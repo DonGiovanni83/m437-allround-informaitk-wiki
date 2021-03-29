@@ -1,0 +1,16 @@
+======= Verfügbarkeit ======
+
+In Serviceverträgen wird mit dem Kunde meistens, nach definierten SLAs, vereinbart zu welchem Grad
+ein gewisser Dienst oder Infrastruktur verfügbar sein muss. Oft wird dies in Prozentsätzen angegeben
+wie in der untenstehenden Tabelle.
+
+^ ^ Verfügbarkeit in % ^ Max. Ausfall pro Jahr ^
+^ Klasse 1 |  99.999%  |  5//min// |
+^ Klasse 2 |  99.99%  |  53//min//|
+^ Klasse 3 |  99.9%  |  8//h// 46//min// |
+^ Klasse 4 |  99.5%  |  1//d// 19//h// 48//min// |
+^ Klasse 5 |  99%  |  3//d// 15//h// 36//min// |
+
+Verfügbarkeit der Klasse 1 ist im Betriebe sehr teuer, da soche Verfügbarkeit nur mit gewissen
+Redundanzen gewährleistet werden kann. Da nicht alle Kunden sich Verfügbarketi der Klasse 1 leisten
+können, ist es im Support wichtig zu wissen welche Kunden wie Priorisiert werden müssen.
