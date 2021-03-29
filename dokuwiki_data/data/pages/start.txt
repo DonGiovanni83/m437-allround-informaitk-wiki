@@ -1,0 +1,11 @@
+====== Allround Informatik AG - Wiki ======
+Willkommen auf der Wiki-Wissensdatenbank der Allround Informatik AG
+===== Verzeichnis =====
+
+  * [[ supportorganisation:ablauf_helpdesk | Ablauf Helpdesk ]]
+  * [[ supportorganisation:begriffssammlung | Begriffssammlung ]]
+  * [[ supportorganisation:itil | ITIL ]]
+  * [[ supportorganisation:sla | SLA ]]
+  * [[ supportorganisation:supportlevel | Supportlevel ]]
+  * [[ supportorganisation:verfuegbarkeit | Verfügbarkeit ]]
+  * [[ supportorganisation:vier_ohren | Vier Ohren ]]
